@@ -1,5 +1,6 @@
-# ClickerDominoes
+# ###ClickerDominoes
 
- Screenshot of the Dominoes App
+                                                             ##Screenshot of the Dominoes App
  
- https://github.com/nayan-khemka/DominoesCounter/blob/master/ClickerApp.jpeg
+![ClickerApp](https://user-images.githubusercontent.com/72384862/151793817-c1cfb099-1f3a-4bb1-a51f-2e124df85eb1.jpeg)
+
