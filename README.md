@@ -1,4 +1,6 @@
 # ClickerDominoes
+This is a counter app made on React
+
 
 ## Screenshot of the Dominoes App
  
