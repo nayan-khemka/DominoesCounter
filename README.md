@@ -1,5 +1,5 @@
 # ClickerDominoes
-This is a counter app made on React
+This is a counter app made on React with the UI to look as if its an order counter for Dominoes.
 
 
 ## Screenshot of the Dominoes App
